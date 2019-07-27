@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToDo-DevIncubator/static/css/main.154ff13b.chunk.css",
+    "main.js": "/ToDo-DevIncubator/static/js/main.d4da9fd8.chunk.js",
+    "main.js.map": "/ToDo-DevIncubator/static/js/main.d4da9fd8.chunk.js.map",
+    "runtime~main.js": "/ToDo-DevIncubator/static/js/runtime~main.dfc886c7.js",
+    "runtime~main.js.map": "/ToDo-DevIncubator/static/js/runtime~main.dfc886c7.js.map",
+    "static/js/2.34ad89f7.chunk.js": "/ToDo-DevIncubator/static/js/2.34ad89f7.chunk.js",
+    "static/js/2.34ad89f7.chunk.js.map": "/ToDo-DevIncubator/static/js/2.34ad89f7.chunk.js.map",
+    "index.html": "/ToDo-DevIncubator/index.html",
+    "precache-manifest.c7a99ca3e2ca8832ba68c8b965f7a074.js": "/ToDo-DevIncubator/precache-manifest.c7a99ca3e2ca8832ba68c8b965f7a074.js",
+    "service-worker.js": "/ToDo-DevIncubator/service-worker.js",
+    "static/css/main.154ff13b.chunk.css.map": "/ToDo-DevIncubator/static/css/main.154ff13b.chunk.css.map"
+  }
+}
